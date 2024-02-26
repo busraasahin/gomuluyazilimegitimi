@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/lcdd.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>2158</used>
+      <free>6034</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>66624</length>
+      <used>18717</used>
+      <free>47907</free>
+    </memory>
+  </executable>
+</project>
