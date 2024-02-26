@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/grafik_lcd_sinav.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>1850</used>
+      <free>6342</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>66624</length>
+      <used>12423</used>
+      <free>54201</free>
+    </memory>
+  </executable>
+</project>
